@@ -19,7 +19,7 @@ const ContactPage = () => {
       />
       <ContactInfo />
       <ContactForm />
-      <Location />
+      {/* <Location /> */}
     </>
   );
 };
