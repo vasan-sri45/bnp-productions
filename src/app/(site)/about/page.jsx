@@ -3,8 +3,7 @@
 import React from "react";
 import HeroSub from "../../components/SharedComponent/HeroSub";
 import Counter from "../../components/Home/Counter";
-import Progresswork from '../../components/Home/WorkProgress';
-
+import Progresswork from "../../components/Home/WorkProgress";
 const AboutPage = () => {
   const breadcrumbLinks = [
     { href: "/", text: "Home" },
