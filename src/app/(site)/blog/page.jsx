@@ -1,8 +1,8 @@
 import React from 'react';
 // import BlogList from '@/app/components/Blog/BlogList';
 // import HeroSub from '@/app/components/SharedComponent/HeroSub';
-import BlogList from "@/components/Blog/BlogList";
-import HeroSub from "@/components/SharedComponent/HeroSub";
+// import BlogList from "@/components/Blog/BlogList";
+import HeroSub from "../../components/SharedComponent/HeroSub";
 
 const BlogPage = () => {
   const breadcrumbLinks = [
