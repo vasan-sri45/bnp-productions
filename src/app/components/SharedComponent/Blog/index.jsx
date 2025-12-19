@@ -8,21 +8,21 @@ const samplePosts = [
     title: "Sample Blog Post 1",
     date: "2024-01-15",
     excerpt: "This is a sample blog post excerpt.",
-    coverImage: "blog-1.jpg",
+    coverImage: "https://m.media-amazon.com/images/I/61KfjOpCOLL._AC_UF1000,1000_QL80_.jpg",
     slug: "sample-blog-1"
   },
   {
     title: "Sample Blog Post 2",
     date: "2024-01-20",
     excerpt: "Another sample blog post excerpt.",
-    coverImage: "blog-2.jpg",
+    coverImage: "https://m.media-amazon.com/images/I/61KfjOpCOLL._AC_UF1000,1000_QL80_.jpg",
     slug: "sample-blog-2"
   },
   {
     title: "Sample Blog Post 3",
     date: "2024-01-25",
     excerpt: "Third sample blog post excerpt.",
-    coverImage: "blog-3.jpg",
+    coverImage: "https://m.media-amazon.com/images/I/61KfjOpCOLL._AC_UF1000,1000_QL80_.jpg",
     slug: "sample-blog-3"
   }
 ];
