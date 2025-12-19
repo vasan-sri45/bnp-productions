@@ -12,7 +12,7 @@ export const ColorConfiguration = () => {
             1. Override Colors
           </span>{' '}
           <br />
-          For any change in colors: src/utils/extendedConfig.ts
+          For any change in colors: src/utils/extendedConfig.js
         </p>
         <div className='py-4 px-5 rounded-md bg-black mt-8'>
           <p className='text-sm text-gray-400 flex flex-col gap-2'>
@@ -36,7 +36,7 @@ export const ColorConfiguration = () => {
             2. Override Theme Colors
           </span>{' '}
           <br />
-          For change, go to: src/utils/extendedConfig.ts
+          For change, go to: src/utils/extendedConfig.js
         </p>
         <div className='py-4 px-5 rounded-md bg-black mt-8'>
           <p className='text-sm text-gray-400 flex flex-col gap-2'>
