@@ -64,6 +64,7 @@
 
 import React from 'react';
 import { Icon } from '@iconify/react';
+import Link from "next/link";
 
 const Services = () => {
   const services = [
@@ -111,10 +112,19 @@ const Services = () => {
                 ))}
               </ul>
 
-              <div className="text-primary flex items-center justify-center gap-1">
+              {/* <div className="text-primary flex items-center justify-center gap-1">
                 Get Started
                 <Icon icon="ei:chevron-right" width="22" height="22" />
-              </div>
+              </div> */}
+
+                  <Link
+      href="/contact"   
+      className="text-primary flex items-center justify-center gap-1"
+    >
+      Get Started
+      <Icon icon="ei:chevron-right" width="22" height="22" />
+    </Link>
+
             </div>
           ))}
         </div>
