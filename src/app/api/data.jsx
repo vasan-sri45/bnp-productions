@@ -51,7 +51,7 @@ export const Servicebox = [
 
 export const portfolioinfo = [
   {
-    image: '/images/portfolio/cozycasa.png',
+    image: '/images/client-logos/Mambalam-Iyars.jpg',
     alt: 'Portfolio',
     title: 'Mambalam Iyers',
     slug: 'Mambalam Iyers',
@@ -59,7 +59,7 @@ export const portfolioinfo = [
     Class: 'md:mt-0'
   },
   {
-    image: '/images/portfolio/mars.png',
+    image: '/images/client-logos/Aero360.jpg',
     alt: 'Portfolio',
     title: 'Aero 360',
     slug: 'Aero 360',
@@ -67,7 +67,7 @@ export const portfolioinfo = [
     Class: 'md:mt-24'
   },
   {
-    image: '/images/portfolio/humans.png',
+    image: '/images/client-logos/Wiin-homes.jpg',
     alt: 'Portfolio',
     title: 'WIIN Homes',
     slug: 'WIIN Homes',
@@ -75,7 +75,7 @@ export const portfolioinfo = [
     Class: 'md:mt-0'
   },
   {
-    image: '/images/portfolio/roket-squred.png',
+    image: '/images/client-logos/Adfolks.jpg',
     alt: 'Portfolio',
     title: 'Adfolks',
     slug: 'Adfolks',
@@ -83,7 +83,7 @@ export const portfolioinfo = [
     Class: 'md:mt-24'
   },
   {
-    image: '/images/portfolio/panda-logo.png',
+    image: '/images/client-logos/Arctic.jpg',
     alt: 'Portfolio',
     title: 'ARCTIC',
     slug: 'ARCTIC',
@@ -91,7 +91,7 @@ export const portfolioinfo = [
     Class: 'md:mt-0'
   },
   {
-    image: '/images/portfolio/humans.png',
+    image: '/images/client-logos/Sri-sai-baba.jpg',
     alt: 'Portfolio',
     title: 'Sri Sai Baba Dental Care',
     slug: 'Sri Sai Baba Dental Care',
@@ -99,7 +99,7 @@ export const portfolioinfo = [
     Class: 'md:mt-0'
   },
   {
-    image: '/images/portfolio/cozycasa.png',
+    image: '/images/client-logos/Mahendra.jpg',
     alt: 'Portfolio',
     title: 'Mahendra Educational Institutions',
     slug: 'Mahendra Educational Institutions',
@@ -107,7 +107,7 @@ export const portfolioinfo = [
     Class: 'md:mt-24'
   },
   {
-    image: '/images/portfolio/mars.png',
+    image: '/images/client-logos/Renault.jpg',
     alt: 'Portfolio',
     title: 'Renault',
     slug: 'Renault',
@@ -115,7 +115,7 @@ export const portfolioinfo = [
     Class: 'md:mt-0'
   },
   {
-    image: '/images/portfolio/panda-logo.png',
+    image: '/images/client-logos/Eden.jpg',
     alt: 'Portfolio',
     title: 'Eden Dental & Esthetics',
     slug: 'Eden Dental & Esthetics',
@@ -123,7 +123,7 @@ export const portfolioinfo = [
     Class: 'md:mt-24'
   },
   {
-    image: '/images/portfolio/roket-squred.png',
+    image: '/images/client-logos/Anjappar.jpg',
     alt: 'Portfolio',
     title: 'Anjappar',
     slug: 'Anjappar',
@@ -131,7 +131,7 @@ export const portfolioinfo = [
     Class: 'md:mt-0'
   },
   {
-    image: '/images/portfolio/roket-squred.png',
+    image: '/images/client-logos/Inn purple.jpg',
     alt: 'Portfolio',
     title: 'INN Purple',
     slug: 'INN Purple',
@@ -139,7 +139,7 @@ export const portfolioinfo = [
     Class: 'md:mt-0'
   },
   {
-    image: '/images/portfolio/roket-squred.png',
+    image: '/images/client-logos/Thaayar.jpg',
     alt: 'Portfolio',
     title: 'Thaayar',
     slug: 'Thaayar',
@@ -147,7 +147,7 @@ export const portfolioinfo = [
     Class: 'md:mt-0'
   },
   {
-    image: '/images/portfolio/roket-squred.png',
+    image: '/images/client-logos/win tech.jpg',
     alt: 'Portfolio',
     title: 'Wintech',
     slug: 'Wintech',
