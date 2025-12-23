@@ -93,7 +93,7 @@ const PortfolioCard = () => {
       { breakpoint: 1320, settings: { slidesToShow: 4 } },
       { breakpoint: 1024, settings: { slidesToShow: 3 } },
       { breakpoint: 768, settings: { slidesToShow: 2 } }, // ✅ Mobile
-      { breakpoint: 480, settings: { slidesToShow: 2 } }, // ✅ Mobile
+      { breakpoint: 480, settings: { slidesToShow: 1 } }, // ✅ Mobile
     ],
   };
 
