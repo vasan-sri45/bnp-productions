@@ -227,12 +227,12 @@ const PortfolioCard = () => {
                       {item.title}
                     </h4>
 
-                    <p className="
+                    {/* <p className="
                       text-xs sm:text-sm lg:text-base
                       text-secondary dark:text-white/50
                     ">
                       {item.info}
-                    </p>
+                    </p> */}
                   </div>
                 </div>
 
