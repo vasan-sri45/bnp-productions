@@ -156,3 +156,26 @@ body {
   transform: rotateY(180deg);
 }
 
+/* Slick fixes */
+.slick-slider {
+  width: 100%;
+}
+
+.slick-track {
+  display: flex !important;
+}
+
+.slick-slide {
+  height: auto !important;
+}
+
+.slick-slide > div {
+  height: 100%;
+}
+
+/* Disable hover zoom on mobile */
+@media (hover: none) {
+  .group-hover\:scale-105 {
+    transform: none !important;
+  }
+}
